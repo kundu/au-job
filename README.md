@@ -18,5 +18,4 @@ DB_PASSWORD=*
 ### API Details
 > ### [API Postman Collection](https://www.getpostman.com/collections/59ea8be3791377b8f906 "[API Postman Collection] ")
 > ### [API Documentation](https://www.getpostman.com/collections/65132f68e5d4cd9d9ee7 "API Documentation")
-
-##### change api environment base_url and 
+ 
